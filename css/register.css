@@ -1,0 +1,14 @@
+.container{
+    padding: 30px;
+    width: 60%;
+    position: relative;
+    margin: auto;
+    background:black;
+    color:blue;
+    border-radius: 3px;
+    opacity: 90%;
+
+}
+span{
+    color: brown;
+}
